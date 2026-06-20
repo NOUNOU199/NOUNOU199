@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,40:0B0B0B,75:39FF14,100:FACC15&text=Nourelhak%20Maache&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer&descSize=18&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&font=Poppins&color=0:39393A,25:9B9B93,55:C1B098,80:E9D2F4,100:63B0CD&text=Nourelhak%20Maache&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer&descSize=18&descAlignY=58" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Nourelhak Maache</h2>
@@ -11,15 +11,15 @@
 
 <p align="center">
   <a href="https://github.com/NOUNOU199">
-    <img src="https://img.shields.io/badge/GitHub-NOUNOU199-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-NOUNOU199-39393A?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/maache-nourelhak-868115342/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nourelhak%20Maache-39FF14?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Nourelhak%20Maache-63B0CD?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:mn_maache@esi.dz">
-    <img src="https://img.shields.io/badge/Email-Contact-FACC15?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-Contact-C1B098?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 

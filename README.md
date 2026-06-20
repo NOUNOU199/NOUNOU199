@@ -100,54 +100,6 @@ Goal:
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎓 Twenty Academy Education</h3>
-      <p>
-        Educational platform focused on academy management, learning workflows and clean digital organization.
-      </p>
-      <p>
-        <b>Tech:</b> TypeScript · Web Development
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🤖 Agent Code Correct Project</h3>
-      <p>
-        AI-based refactoring and code correction project designed to analyze and improve source code automatically.
-      </p>
-      <p>
-        <b>Tech:</b> Python · AI · Refactoring
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3>🧪 LMCSLABO</h3>
-      <p>
-        Laboratory-related project built with JavaScript, focused on practical development and structured implementation.
-      </p>
-      <p>
-        <b>Tech:</b> JavaScript
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📊 Agile Assurances</h3>
-      <p>
-        Project related to insurance workflows, agile practices and data-based analysis.
-      </p>
-      <p>
-        <b>Tech:</b> Jupyter Notebook · Analysis
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">

@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Nourelhak%20Maache-007EA7?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
   </a>
   <a href="mailto:mn_maache@esi.dz">
-    <img src="https://img.shields.io/badge/Email-Contact-6B7280?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Email-mn_maache%40esi.dz-6B7280?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
   </a>
 </p>
 
@@ -40,8 +40,9 @@ Focus:
 
 Currently Learning:
   - LangGraph
-  - FastAPI
+  - ML/DL
   - TypeScript
+  - React.js 
   - Docker
   - AI Agents
 
